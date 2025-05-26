@@ -13,7 +13,7 @@ Features:
 - 5V 2A USB-C Input
 - 6V - 32V VIN Input 
 - MicroSD Card Slot
-- 10/100 Ethernet provided over SPI using the W5500
+- 10/100 Ethernet provided over SPI using the W6100. Supports Auto-Negotiations, IPv4, IPv6, and Auto-MIDX.
 - SE050 EdgeLock Plug and Trust Secure Element to provide security features for connected applications, accessible using I2C
 - ISM330DHCX Inertial Measurement Unit, accessible using I2C
 - MCP7940N Real Time Clock, accessible using I2C
