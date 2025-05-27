@@ -34,7 +34,7 @@ Features:
 - [CH340N](https://datasheet.lcsc.com/szlcsc/Jiangsu-Qin-Heng-CH340C_C84681.pdf): USB->Serial Bridge
 - [AP22805AW5](https://www.diodes.com/assets/Datasheets/AP22804_14.pdf): USB Protection
 - [AP63205](https://www.diodes.com/assets/Datasheets/AP63200-AP63201-AP63203-AP63205.pdf): DC-DC Switching Converters
-- [W5500](http://wizwiki.net/wiki/lib/exe/fetch.php/products:w5500:w5500_ds_v109e.pdf): SPI->Ethernet Bridge
+- [W6100](https://docs.wiznet.io/img/products/w6100/w6100_ds_v105e.pdf): SPI->Ethernet Bridge
 - [ISM330DHCX](https://www.st.com/resource/en/datasheet/ism330dhcx.pdf): "AI Enabled" Inertial Measurement Unit
 - [SE050C2HQ1](https://www.nxp.com/docs/en/data-sheet/SE050-DATASHEET.pdf): Security Coprocessor
 - [MCP7940N](http://ww1.microchip.com/downloads/en/DeviceDoc/20005010F.pdf): Real-Time Clock **with** Battery Backup
